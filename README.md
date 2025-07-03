@@ -7,9 +7,9 @@ En este proyecto, me enfoqué en analizar el comportamiento de la facturación y
 
 ### Objetivos:
 
-    * Estudiar y validar los datos de facturación.
-    * Agrupar eventos de facturación para identificar patrones.
-    * Visualizar los resultados del análisis para comprender el comportamiento de la facturación.
+   * Estudiar y validar los datos de facturación.
+   * Agrupar eventos de facturación para identificar patrones.
+   * Visualizar los resultados del análisis para comprender el comportamiento de la facturación.
 
 ### Metodología:
 
@@ -25,9 +25,9 @@ En todas las visualizaciones realizadas, se observó una tendencia consistente e
 
 ### Lenguajes y herramientas principales:
 
-    - Python 
-    - Pandas (para manipulación de datos) 
-    - Plotly Express (para visualizaciones) 
-    - Openpyxl (para trabajar con archivos Excel) 
+   - Python 
+   - Pandas (para manipulación de datos) 
+   - Plotly Express (para visualizaciones) 
+   - Openpyxl (para trabajar con archivos Excel) 
 
 Este análisis proporcionó una comprensión clara del comportamiento de facturación y las preferencias de pago de los clientes en las diversas ubicaciones de la empresa, lo que puede servir como base para decisiones estratégicas en ventas y marketing.
